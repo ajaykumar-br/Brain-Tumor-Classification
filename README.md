@@ -55,5 +55,5 @@ Detailed visual results and analyses are included within the Colab notebooks.
 Contributions are welcome. Please fork the project and submit a pull request for any improvements.
 
 ## License
-This project is licensed under the MIT License - see the [./LICENSE] file for details.
+This project is licensed under the MIT License - see the [MIT license](LICENSE) file for details.
 
